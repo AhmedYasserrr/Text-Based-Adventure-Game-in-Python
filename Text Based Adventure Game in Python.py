@@ -8,7 +8,6 @@ monsters = ["dwarfs", "snakes", "giants"]
 congratulations = ["Nice job!", "Nice going!", "Great work!",
                    "Keep it up!", "Great improvement!"]
 
-
 # the main function that contain all of code
 #  to start the game and restart it
 def playing_again():
